@@ -12,3 +12,4 @@ This is the sort of data that we might obtain from SGSS.
 *IMD - field will have index of multiple deprivation data within it
 
 *modifying this file to test with Git Hub
+* date of onset of symptoms
