@@ -14,4 +14,4 @@ This tests conflicts
 *modifying this file to test with Git Hub
 * date of onset of symptoms
 
-*this is to test conflict AGAIN - Sarah's amend done in R.
+*this is to test conflict both editing the same line - Sarah's amend done in R. 
