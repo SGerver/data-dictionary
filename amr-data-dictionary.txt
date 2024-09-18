@@ -14,4 +14,4 @@ This is the sort of data that we might obtain from SGSS.....
 *modifying this file to test with Git Hub
 * date of onset of symptoms
 
-*this is to test conflict - Sarah's amend done in R.
+*this is to test conflict AGAIN - Sarah's amend done in R.
