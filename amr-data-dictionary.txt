@@ -4,9 +4,11 @@ AMR data
 
 This is the sort of data that we might obtain from SGSS.
 
-* id Integer - A unique identifier for each person
+*id Integer - A unique identifier for each person
 *date of birth - field denoting patient's DoB - STRING
 *speciemn date - date specimen was taken - STRING
-*region - of laboratory testing the patient sample - CHARATCER
+*region - of laboratory testing the patient sample - CHARACTER
 *ethnicty - ethnicity of patient
 *IMD - field will have index of multiple deprivation data within it
+
+*modifying this file to test with Git Hub
